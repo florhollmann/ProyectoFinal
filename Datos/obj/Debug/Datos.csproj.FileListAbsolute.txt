@@ -1,0 +1,18 @@
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Datos.dll
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.dll
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.dll
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Datos.dll
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Datos.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\bin\Debug\Entidades.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Datos\obj\Debug\Datos.csproj.CopyComplete

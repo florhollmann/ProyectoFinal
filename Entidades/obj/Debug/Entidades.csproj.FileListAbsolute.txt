@@ -1,0 +1,12 @@
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\bin\Debug\Entidades.pdb
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\obj\Debug\Entidades.pdb
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\bin\Debug\Entidades.dll
+C:\Users\t11641.training07\Desktop\Documentos de escrtorio\technoloshe\Proyecto Final\SolucionProyecto\Entidades\bin\Debug\Entidades.pdb

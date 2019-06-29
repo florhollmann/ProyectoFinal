@@ -1,0 +1,120 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\ConsoleApp1\\Presentacion Profesores.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\ConsoleApp1\\Presentacion Profesores.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\ConsoleApp1\\Presentacion Profesores.csproj",
+        "projectName": "Presentacion Profesores",
+        "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\ConsoleApp1\\Presentacion Profesores.csproj",
+        "packagesPath": "C:\\Users\\t11641.training07\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\ConsoleApp1\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\t11641.training07\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj"
+              },
+              "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Logica\\Logica.csproj": {
+                "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Logica\\Logica.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Datos\\Datos.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj",
+        "projectName": "Entidades",
+        "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj"
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    },
+    "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Logica\\Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Logica\\Logica.csproj",
+        "projectName": "Logica",
+        "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Logica\\Logica.csproj",
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj": {
+                "projectPath": "C:\\Users\\t11641.training07\\Desktop\\Documentos de escrtorio\\technoloshe\\Proyecto Final\\SolucionProyecto\\Entidades\\Entidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {}
+      }
+    }
+  }
+}

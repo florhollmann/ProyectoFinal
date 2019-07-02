@@ -34,5 +34,18 @@ namespace Datos
             objConexion.Close();
         }
 
+        public DataTable TraerTodos()
+        {
+            string strConexion = @"Server=CPX-9D16UJP0XPA\TRAINING; database=proyectoFinal; Integrated Security= true";
+            string strSQL = "select * from Libros";
+            SqlDataAdapter objDa = new SqlDataAdapter(strSQL, strConexion);
+            //que es lo que quiero ejecutar?? el strSQL (lugar numero1 en el parentesis) en donde?? en strConexion
+            //ejecuto el SELECT en la direccion que puse mas arriba
+            DataTable dtl = new DataTable();
+            objDa.Fill(dtl);
+
+            return dtl;
+        }
+
         }
     }

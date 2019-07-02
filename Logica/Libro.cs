@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -22,6 +23,12 @@ namespace Logica
             // TODO llamar a metodo agregar de la capa de datos
             Datos.Libro objLibro = new Datos.Libro();
             objLibro.Agregar(pLibro);
+        }
+
+        public DataTable TraerTodos()
+        {
+            Datos.Libro objLibro = new Datos.Libro();
+            return objLibro.TraerTodos();
         }
     }
 }

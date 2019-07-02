@@ -28,8 +28,8 @@ namespace Entidades
         }
         public string NombreAutor
         {
-            get { return nombreLibro; }
-            set { nombreLibro = value; }
+            get { return nombreAutor; }
+            set { nombreAutor = value; }
         }
         public string ApellidoAutor
         {
